@@ -41,7 +41,7 @@
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/integration-aws-node": "workspace:^",
+    "@backstage/integration-aws-node": "0.1.0",
     "@backstage/plugin-notifications-common": "workspace:^",
     "@backstage/plugin-notifications-node": "workspace:^",
     "@backstage/types": "workspace:^",
